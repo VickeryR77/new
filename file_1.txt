@@ -2,3 +2,6 @@ NEWLINE
 This
 is
 text
+The Cake
+Is a lie
+Was here
