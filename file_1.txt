@@ -1,3 +1,4 @@
+NEWLINE
 This
 is
 text
